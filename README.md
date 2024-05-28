@@ -1,2 +1,3 @@
 # BlogMaterials
-This repo will contain the codes, files, etc that is necessary for the blog topics at amunrha.github.io
+
+Codes, files and other necessary data for the blogpost posted at: [amunrha.github.io](https://amunrha.github.io)
